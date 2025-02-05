@@ -1,5 +1,9 @@
-# 💰 MoneyMate (Link: )
+# 💰 MoneyMate 
 MoneyMate is a simple banking app made for fun! It lets you log in, transfer money, request loans, and even close your account (don't worry, it's all just for practice). This project was built using HTML, CSS, and JavaScript as a way to explore DOM manipulation, event handling, and basic financial calculations.
+
+## Demo
+Link: https://money-mate-01.netlify.app/
+Check with User as 'js' and Pin as '1111'
 
 ## 🚀 Features
 ### Fake Login System:
