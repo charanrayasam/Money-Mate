@@ -1,4 +1,4 @@
-# 💰 MoneyMate
+# 💰 MoneyMate (Link: )
 MoneyMate is a simple banking app made for fun! It lets you log in, transfer money, request loans, and even close your account (don't worry, it's all just for practice). This project was built using HTML, CSS, and JavaScript as a way to explore DOM manipulation, event handling, and basic financial calculations.
 
 ## 🚀 Features
@@ -15,9 +15,9 @@ MoneyMate is a simple banking app made for fun! It lets you log in, transfer mon
 ### Auto Logout Timer:
   Stay logged in for a while, then get automatically logged out due to "security reasons."
 ## 🎮 How to Use
-Log in using a preset username and PIN.
-Check your balance and see recent transactions.
-Transfer money to another preset user.
-Request a loan (no credit check needed, lucky you).
-Close your account if you’re done playing around.
-Wait too long? You’ll be logged out automatically!
+Log in using a preset username and PIN.<br>
+Check your balance and see recent transactions.<br>
+Transfer money to another preset user.<br>
+Request a loan (no credit check needed, lucky you).<br>
+Close your account if you’re done playing around.<br>
+Wait too long? You’ll be logged out automatically!<br>
