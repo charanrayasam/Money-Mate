@@ -25,3 +25,5 @@ Transfer money to another preset user.<br>
 Request a loan (no credit check needed, lucky you).<br>
 Close your account if you’re done playing around.<br>
 Wait too long? You’ll be logged out automatically!<br>
+
+🛠️ This project was created as part of the JavaScript course by Jonas Schmedtmann.
